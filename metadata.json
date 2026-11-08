@@ -1,0 +1,6 @@
+{
+  "name": "PrivateVault",
+  "description": "Secure, offline-first private photo and video vault with AES-256-GCM encryption, biometric unlock, and album management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
